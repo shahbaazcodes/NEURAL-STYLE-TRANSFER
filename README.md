@@ -16,10 +16,6 @@ This project uses a neural network to blend the content of one image with the st
 
 🖼️ Screenshot
 
-
-<img width="477" alt="Screenshot 2025-05-22 at 9 07 42 PM" src="https://github.com/user-attachments/assets/a73f1483-b767-45ca-b688-599772b28521" />
-
-
 Stylized Output:
 
 The final generated image (stylized_output.jpg) shows the content of content.jpg transformed using the style of style.jpg.
